@@ -51,9 +51,4 @@ The Sudoku Game uses a clean and interactive GUI to enhance user experience. The
 - Implement different difficulty levels.
 - Include a timer to track performance.
 
-## License
-This project is open-source and available for modifications and improvements.
-
----
-Let me know if you want to add anything else!
 
